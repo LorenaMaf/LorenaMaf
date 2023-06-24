@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LorenaMaf
 - 👀 I’m a life enthusiast
 - 🌱 I’m currently studyind and learning informatics at UNISA
+- :muscle: Never stop, break your limits
 - 📫 How to reach me on Telegram: https://t.me/Pizzette
 
 <!---
