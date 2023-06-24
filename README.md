@@ -2,7 +2,7 @@
 - 👀 I’m a life enthusiast
 - 🌱 I’m currently studyind and learning informatics at UNISA
 - :muscle: Never stop, break your limits
-- 📫 How to reach me on Telegram: https://t.me/Pizzette
+
 
 <!---
 LorenaMaf/LorenaMaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
