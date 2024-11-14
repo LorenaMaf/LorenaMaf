@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LorenaMaf
-- 👀 I’m a life enthusiast
-- 🌱 I’m currently studyind and learning informatics at UNISA
+- 👀 Life enthusiast
+- 🌱 Studyind and learning informatics at UNISA
 - :muscle: Never stop, break your limits
 
 
